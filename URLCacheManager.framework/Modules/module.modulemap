@@ -1,0 +1,10 @@
+framework module URLCacheManager {
+  umbrella header "URLCacheManager.h"
+
+  export *
+  module * { export * }
+}
+
+module URLCacheManager.Swift {
+    header "URLCacheManager-Swift.h"
+}
