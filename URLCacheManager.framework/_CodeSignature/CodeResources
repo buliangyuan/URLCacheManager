@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/URLCacheManager-Swift.h</key>
 		<data>
-		wIioGCTQ1eaP59sVPjKmYFWxFU8=
+		y0oYDksuR7RR9q/1sa81OUJODAg=
 		</data>
 		<key>Headers/URLCacheManager.h</key>
 		<data>
@@ -18,27 +18,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IEEbmtQ6wmh0r+y9sUDsdKhhfR0=
+		bzRw7JzuM8D/krILVl3NzoEnu34=
 		</data>
 		<key>Modules/URLCacheManager.swiftmodule/i386.swiftdoc</key>
 		<data>
-		rm13ZkqvE8H300NVyYzqB4zGH3w=
+		UFpei+iTn0cdKfTJQ9sJtBvmNZc=
 		</data>
 		<key>Modules/URLCacheManager.swiftmodule/i386.swiftmodule</key>
 		<data>
-		RD9wbjfBTH/n5q5jlCC6OnEgscI=
+		dvx0WLipJzil3dr9uuu6RQCghyk=
 		</data>
 		<key>Modules/URLCacheManager.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		3EcODmac7LGOiw3cJGfVZ4R8E54=
+		3vGqZ22P4OqOsLBtVWZvMoYwJvI=
 		</data>
 		<key>Modules/URLCacheManager.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		NtdJWo46IKMTLgWUkaLmscMTcEA=
+		GSWGm6jU4C8daghr910ga9pf5Uc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		LIuu3v4YlffLYMPsY0Yw+1xIRTU=
+		SSgXlFLxjzoPgbgr/xgSBAYEyiA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wIioGCTQ1eaP59sVPjKmYFWxFU8=
+			y0oYDksuR7RR9q/1sa81OUJODAg=
 			</data>
 			<key>hash2</key>
 			<data>
-			melDifQqUyWrOlTMkY01G+gYnfl4EzR+BEMgaz/HuvY=
+			1C5iHT10d4Q1ReJcIwiZ/ncIAG9OGw6r7MxPISERDeU=
 			</data>
 		</dict>
 		<key>Headers/URLCacheManager.h</key>
@@ -80,55 +80,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rm13ZkqvE8H300NVyYzqB4zGH3w=
+			UFpei+iTn0cdKfTJQ9sJtBvmNZc=
 			</data>
 			<key>hash2</key>
 			<data>
-			ACN/vTRfrwHVtT6ET3cCAZ0SyXXE56zhLz2XvNOV21s=
+			gH+EFgeeicYDER9lRDXIlODZchFpkEBayXx+MscNdJQ=
 			</data>
 		</dict>
 		<key>Modules/URLCacheManager.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RD9wbjfBTH/n5q5jlCC6OnEgscI=
+			dvx0WLipJzil3dr9uuu6RQCghyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			wUvudcSPLB+1RuJyTQyTUR6juK61kNToHqSArAubKmw=
+			WU1vnIqrZ2enJSDCxBjyoE/uKa5z/ZdrS3yTklIk8LY=
 			</data>
 		</dict>
 		<key>Modules/URLCacheManager.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3EcODmac7LGOiw3cJGfVZ4R8E54=
+			3vGqZ22P4OqOsLBtVWZvMoYwJvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kurxs48ME+de5AffQIK2EAk9ymNNTxUPEw2PR62UbtY=
+			/nDfKQ+Z1GjRVVlcOrzCWIg39lKugUGUR8psVVWgXjA=
 			</data>
 		</dict>
 		<key>Modules/URLCacheManager.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NtdJWo46IKMTLgWUkaLmscMTcEA=
+			GSWGm6jU4C8daghr910ga9pf5Uc=
 			</data>
 			<key>hash2</key>
 			<data>
-			IAGBES2zOG/tCXJKpVSziiut0R+8jmoRNGXkb7/Ge3Y=
+			8OJ/ZACmbjmpMWAHyRZkW1yG/a2ytkVgV2WRUEGyNjQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LIuu3v4YlffLYMPsY0Yw+1xIRTU=
+			SSgXlFLxjzoPgbgr/xgSBAYEyiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			nIwSPX1FcRzTgVsGu+2YRX43r724/D7LdrwcyRZ2Rzc=
+			2M6Uqfj3Nc2GOh3soEW9WOrTz9uaFNXcRUARdIjx0P8=
 			</data>
 		</dict>
 	</dict>

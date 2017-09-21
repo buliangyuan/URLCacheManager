@@ -7,4 +7,5 @@ framework module URLCacheManager {
 
 module URLCacheManager.Swift {
     header "URLCacheManager-Swift.h"
+    requires objc
 }
